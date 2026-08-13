@@ -1,0 +1,7 @@
+Una variable es un espacio en la memoria de un programa que sirve para almacenar un dato. Ese dato puede cambiar durante la ejecución del programa.
+
+Las variables se utilizan para guardar información como números, nombres, edades, precios o resultados de operaciones. También permiten utilizar esos datos posteriormente y realizar cálculos o tomar decisiones.
+
+Por ejemplo, una variable llamada “edad” puede almacenar el valor 18 y después cambiar a 19.
+
+En resumen, una variable sirve para guardar y manejar información dentro de un programa.

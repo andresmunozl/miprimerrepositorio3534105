@@ -1,0 +1,11 @@
+Un diagrama de flujo es una representación gráfica de los pasos que se deben seguir para realizar un proceso o resolver un problema. Utiliza símbolos y flechas para mostrar el orden de las instrucciones.
+
+Sus principales símbolos son:
+
+Óvalo: representa el inicio y el final del proceso.
+Rectángulo: representa una acción, proceso o instrucción.
+Rombo: representa una decisión o condición, normalmente con respuestas como “sí” o “no”.
+Paralelogramo: representa la entrada o salida de datos, por ejemplo, ingresar un número o mostrar un resultado.
+Flechas: indican la dirección y el orden en que se realizan los pasos.
+
+En resumen, un diagrama de flujo sirve para visualizar de manera sencilla cómo funciona un proceso o programa antes de escribir el código.

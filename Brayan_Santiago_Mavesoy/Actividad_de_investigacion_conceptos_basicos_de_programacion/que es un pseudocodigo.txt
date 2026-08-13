@@ -1,0 +1,14 @@
+El pseudocódigo es una forma de escribir los pasos y la lógica de un programa utilizando un lenguaje sencillo y fácil de entender, sin seguir las reglas específicas de un lenguaje de programación.
+
+Sirve para planificar un programa antes de escribir el código. Permite organizar las ideas, identificar los pasos necesarios y detectar posibles errores en la solución.
+
+Por ejemplo, para calcular el área de un rectángulo:
+
+Inicio
+Pedir el largo
+Pedir el ancho
+Calcular largo × ancho
+Mostrar el resultado
+Fin
+
+El pseudocódigo es útil porque permite concentrarse primero en resolver el problema y después convertir esa solución en un programa utilizando un lenguaje como Python, Java o JavaScript.
