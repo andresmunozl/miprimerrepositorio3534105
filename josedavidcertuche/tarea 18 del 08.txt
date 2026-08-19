@@ -1,0 +1,5 @@
+ que es un algoritmo;un algoritmo es la secuencia de pasos ordenados 
+para resolver un problema o una tarea 
+que es la programación;la programacion es darte instruciones a una 
+computadora para que hagA algo especifico es como escribir una 
+receta qiue la compu entiende 
