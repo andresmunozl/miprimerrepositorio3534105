@@ -1,0 +1,1 @@
+La programación de algoritmos es como organizar paso a paso lo que se tiene que hacer para resolver un problema. Primero se piensa qué se necesita y después se ordenan las instrucciones para llegar al resultado de una forma sencilla y lógica.
