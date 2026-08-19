@@ -1,0 +1,4 @@
+La programación de algoritmos es como organizar paso a paso lo que se tiene que hacer para resolver un problema. Primero se piensa qué se necesita y después se ordenan las instrucciones para llegar al resultado de una forma sencilla y lógica.
+
+adicionalmente los datos en la programación sirven para guardar y manejar información que el programa necesita para funcionar. Por ejemplo, pueden ser nombres, edades, números o respuestas. Con esos datos, el programa puede hacer cálculos, tomar decisiones y mostrar resultados.
+Asi  mismo es una forma de escribir los pasos de un programa de manera sencilla, sin usar todavía un lenguaje de programación. Sirve para organizar y entender lo que debe hacer el programa antes de comenzar a programarlo.

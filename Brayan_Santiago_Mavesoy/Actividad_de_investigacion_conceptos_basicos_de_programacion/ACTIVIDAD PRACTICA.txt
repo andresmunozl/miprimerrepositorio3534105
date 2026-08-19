@@ -1,0 +1,28 @@
+Actividad práctica: Algoritmo para calcular el valor de una compra
+
+Una situación de la vida cotidiana que se puede resolver mediante un algoritmo es calcular cuánto dinero debemos pagar al realizar una compra.
+
+Algoritmo:
+
+Inicio.
+Elegir los productos que se desean comprar.
+Revisar el precio de cada producto.
+Anotar el precio de cada producto.
+Sumar todos los precios.
+Obtener el valor total de la compra.
+Verificar que el dinero disponible sea suficiente.
+Si el dinero es suficiente, realizar el pago.
+Recibir los productos y el cambio, si corresponde.
+Fin.
+
+Ejemplo sencillo:
+
+Supongamos que una persona compra un pan que cuesta $2.000, una bebida de $3.000 y unas galletas de $1.500.
+
+Primero se anotan los precios y luego se suman:
+
+$2.000 + $3.000 + $1.500 = $6.500
+
+Por lo tanto, el valor total de la compra es de $6.500.
+
+Este ejemplo muestra que un algoritmo permite organizar una actividad cotidiana paso a paso para llegar a un resultado de manera ordenada.

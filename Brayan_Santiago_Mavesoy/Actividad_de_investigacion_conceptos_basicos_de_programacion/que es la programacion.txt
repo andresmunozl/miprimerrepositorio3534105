@@ -1,0 +1,25 @@
+La programación es la forma de darle instrucciones a una computadora para que haga determinadas tareas.
+
+En palabras simples: programar es enseñarle a una computadora qué hacer, cómo hacerlo y cuándo hacerlo, usando un lenguaje que la computadora pueda interpretar.
+
+¿Para qué sirve?
+
+La programación sirve para crear y controlar muchísimas cosas, por ejemplo:
+
+📱 Aplicaciones como WhatsApp, Instagram o juegos.
+🌐 Páginas web y tiendas en línea.
+🤖 Inteligencia artificial y asistentes como ChatGPT.
+🎮 Videojuegos.
+🏦 Sistemas bancarios y aplicaciones empresariales.
+🚗 Automóviles y robots.
+📊 Analizar datos y automatizar tareas repetitivas.
+🔐 Sistemas de seguridad.
+
+¿Cómo se programa?
+
+Se utilizan lenguajes de programación, como:
+
+Python → muy utilizado para aprender, automatización, datos e inteligencia artificial.
+JavaScript → muy importante para páginas y aplicaciones web.
+Java → utilizado en aplicaciones, empresas y Android.
+C/C++ → utilizados en sistemas, videojuegos, dispositivos, etc.

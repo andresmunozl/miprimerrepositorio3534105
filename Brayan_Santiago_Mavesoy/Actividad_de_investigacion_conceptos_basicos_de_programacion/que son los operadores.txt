@@ -1,0 +1,12 @@
+Los operadores son símbolos que indican qué operación se debe realizar sobre uno o más valores. En programación se utilizan para hacer cálculos y trabajar con datos.
+
+Los operadores matemáticos básicos son:
+
+Suma (+): sirve para sumar dos valores. Ejemplo: 5 + 3 = 8.
+Resta (-): sirve para restar un valor de otro. Ejemplo: 10 - 4 = 6.
+Multiplicación (*): sirve para multiplicar valores. Ejemplo: 6 * 3 = 18.
+División (/): sirve para dividir un valor entre otro. Ejemplo: 20 / 4 = 5.
+Módulo (%): sirve para obtener el resto de una división. Ejemplo: 10 % 3 = 1.
+Potencia (**): sirve para elevar un número a una potencia. Ejemplo: 2 ** 3 = 8.
+
+En resumen, los operadores matemáticos permiten realizar cálculos dentro de un programa y obtener nuevos resultados a partir de los valores almacenados.
