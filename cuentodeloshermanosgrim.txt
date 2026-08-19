@@ -1,7 +1,17 @@
+había una vez...y de esta manera le damos un final feliz a nuestra historia.. fin.
 había una vez...
 Un aprendiz muy juicioso llamado Pepito Perez
 había una vez una iguana que  andaba por el mundo tomando café 
 había una vez una iguana que  andaba por el mundo tomando café con su amiga la rata 
+<<<<<<< HEAD
 habia una vez...trus que le dijo a su amigo:
 cuando tengas dudas pregutale al dos... por que?... 
 por que el uno nunca saber.. jajajajjaajjaja
+=======
+había una vez un princeso
+y andaban en cicla a toda velocidad
+hasta que cayeron en una alcantarilla 
+y se le torció el rin de delantero
+y la iguana tomaba cafe
+hasta que cayeron en una alcantarilla 
+>>>>>>> 055cf3fcd133ed0b22ed49d3aaff91dcdde2e121
