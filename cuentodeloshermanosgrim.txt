@@ -1,5 +1,3 @@
 <<<<<<< HEAD
-había una vez una iguana que soñaba con conocer el mundo. Cada noche miraba las estrellas desde su ventana y se preguntaba qué habría más allá de las montañas. Un día decidió emprender un viaje y descubrió que, a veces, los mejores caminos son los que uno se atreve a recorrer sin saber a dónde lo llevarán.
-=======
-
+había una vez una iguana que  andaba por el mundo
 >>>>>>> 3f71ee87ac4719e67a65c79ebe554e935f7bd80f
