@@ -1,0 +1,10 @@
+Resumen conceptos básicos de algoritmia 
+
+La programación es un proceso para crear un conjunto de instrucciones que le permite a la computadora hacer algún tipo de tarea utilizando lenguajes de programación, con ello se puede crear aplicaciones, páginas web, videojuegos, entre otros.
+
+¿Qué es algoritmo?: es un conjunto de instrucciones ordenados para solucionar un problema sus características comunes son precisos, ordenados, claros y finitos
+
+¿Qué es una variable?: es un espacio en la computadora donde guarda información o datos como nombres, edades, precios etc…
+
+
+

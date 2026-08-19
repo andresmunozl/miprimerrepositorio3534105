@@ -1,2 +1,8 @@
 había una vez...
+<<<<<<< HEAD
 rapuncel deja caer tu cabello
+=======
+Un aprendiz muy juicioso llamado Pepito Perez
+había una vez una iguana que  andaba por el mundo tomando café 
+había una vez una iguana que  andaba por el mundo tomando café con su amiga la rata 
+>>>>>>> 02127bfe87c6580c42295258d1faad151bf6aaf8
