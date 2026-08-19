@@ -1,0 +1,6 @@
+RESEMEN CONCEPTOS BASICOS DE ALGORITMIA
+QUE ES PROGRAMACION?: Es darle darle instrucciones ordenadas a una computadora mediante un lenguaje especial en el código especial ellas, automatizando tareas y resolviendo algún problema
+ALGORITMO: Conjunto de instrucciones secuenciales para desarrollar una tarea o solución de problema y debe ser preciso, definido y finito.
+VARIABLE: Es un espacio o caja de almacenamiento temporal de datos de información en el sistema, los cuales se pueden usar y cambiar en cualquier momento del funcionamiento de un programa.
+TIPOS DE DATOS: Son categorías de información que se guardan en una variable. Ejemplo: texto (cadena/string), entero (integer), Decimal (Real/float), Boleano (Bolena)
+OPERADORES: Son los símbolos matemáticos con los que se realizan cálculos matemáticos
