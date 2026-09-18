@@ -1,0 +1,10 @@
+Los tipos de datos son las diferentes clases de información que una variable puede almacenar en un programa. Sirven para indicar qué tipo de valor se está guardando y qué operaciones se pueden realizar con él.
+
+Los tipos de datos más básicos son:
+
+Texto: se utiliza para guardar palabras, frases o caracteres. Por ejemplo: “Hola”, “Juan” o “Colombia”.
+Entero: se utiliza para guardar números sin decimales. Por ejemplo: 10, 25, 0, -5.
+Decimal: se utiliza para guardar números que tienen una parte decimal. Por ejemplo: 3.14, 5.5 o 10.75.
+Booleano: solo puede tener dos valores: verdadero o falso. Se utiliza principalmente para tomar decisiones en un programa. Por ejemplo: verdadero si una persona es mayor de edad, o falso si no lo es.
+
+En resumen, los tipos de datos permiten que un programa sepa qué clase de información está manejando, como texto, números enteros, números decimales o valores de verdadero y falso.

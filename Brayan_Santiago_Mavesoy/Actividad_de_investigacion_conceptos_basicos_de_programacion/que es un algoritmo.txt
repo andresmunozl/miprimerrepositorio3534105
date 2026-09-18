@@ -1,0 +1,21 @@
+Un algoritmo es un conjunto de pasos ordenados y definidos que se siguen para resolver un problema o realizar una tarea.
+
+Por ejemplo, para preparar un vaso de jugo:
+
+Tomar un vaso.
+Agregar agua.
+Agregar el jugo.
+Añadir azúcar si se desea.
+Mezclar.
+Servir.
+
+Eso es un algoritmo porque tiene instrucciones que se siguen en un orden determinado.
+
+Características principales de un algoritmo
+Preciso: cada paso debe estar claramente explicado y no debe generar confusión.
+Ordenado: los pasos tienen una secuencia lógica que se debe respetar.
+Finito: debe terminar después de una cantidad determinada de pasos.
+Definido: si se ejecuta con los mismos datos, debe producir el mismo resultado.
+Tiene entradas: puede recibir datos o información necesarios para realizar la tarea.
+Tiene una salida: produce un resultado después de realizar los pasos.
+Efectivo: sus instrucciones deben ser posibles de realizar y permitir resolver el problema.

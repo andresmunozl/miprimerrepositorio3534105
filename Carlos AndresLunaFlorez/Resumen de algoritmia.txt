@@ -1,0 +1,16 @@
+Resumen de algoritmia
+La programación es una serie de instrucciones para realizar una tarea determinada. Para ello es necesario es necesario partir de un algoritmo para determinar la secuencia finita, ordenada de dichas instrucciones. El algoritmo nos permite crear un diagrama de flujo donde se deben declarar las variables que arrojan algún tipo de dato que pueden ser: Numéricos: Enteros (sin decimales, como 5) 
+Decimales, de coma flotante (con decimales, como 4.5). 
+Textos: Secuencias de letras, palabras o frases (como "Hola"). 
+Booleanos: Valores lógicos que solo admiten dos opciones: verdadero (true) o falso (false). 
+Caracteres: Un solo símbolo o letra individual (como 'a' o '$').
+Así mismo en los diagrama de flujo se pueden realizar una serie de operaciones de acuerdo a la necesidad y que pueden ser: Suma, Resta, Multiplicación, División, Módulo o residuo.
+Para realizar dicho diagrama de flujo nos apoyamos de figuras: 
+Óvalo			Inicio / Fin		Indica dónde comienza o termina el proceso.
+Rectángulo		Proceso		Representa una acción o cálculo.
+Rombo			Decisión		Representa una condición que puede tener respuestas
+como Sí/No.
+Paralelogramo		Entrada / Salida	Indica cuando se ingresan o muestran datos.
+Flecha			Línea de flujo		Indica la dirección que sigue el proceso.
+ 
+Además del diagrama de flujo podemos realizar un pseudocódigo en el que con nuestras propias palabras organizamos y planificamos nuestro programa

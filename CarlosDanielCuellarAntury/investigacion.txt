@@ -1,0 +1,95 @@
+1. ¿Qué es la programación? ¿Para qué sirve?
+
+La programación es darle instrucciones a una computadora para que haga algo. Es como decirle paso a paso qué tiene que hacer.
+
+Sirve para crear aplicaciones, páginas web, juegos, sistemas y muchas cosas más que usamos todos los días.
+
+Ejemplo: cuando usas una app de banco, detrás hay programación que hace que funcione.
+
+2. ¿Qué es un algoritmo? Características
+
+Un algoritmo es una serie de pasos ordenados para resolver un problema.
+
+Características principales:
+
+Tiene pasos claros
+Está ordenado
+Tiene un inicio y un final
+Debe ser fácil de entender
+
+Ejemplo: una receta de cocina es un algoritmo.
+
+3. ¿Qué es una variable? ¿Para qué se utiliza?
+
+Una variable es un espacio donde guardamos un dato.
+
+Sirve para almacenar información que puede cambiar.
+
+Ejemplo:
+Si guardo mi edad:
+edad = 20
+Luego puede cambiar a 21.
+
+4. ¿Qué son los tipos de datos?
+
+Son los tipos de información que puede guardar una variable.
+
+Tipos básicos:
+
+Texto: palabras o letras
+Ej: "Hola"
+Entero: números sin decimales
+Ej: 10
+Decimal: números con decimales
+Ej: 10.5
+Booleano: verdadero o falso
+Ej: true o false
+5. ¿Qué son los operadores?
+
+Son símbolos que sirven para hacer operaciones.
+
+Operadores matemáticos básicos:
+
+Suma: +
+Resta: -
+Multiplicación: *
+División: /
+
+Ejemplo:
+5 + 3 = 8
+
+6. ¿Qué es el pseudocódigo? ¿Para qué sirve?
+
+El pseudocódigo es una forma de escribir un programa pero en lenguaje sencillo, sin usar código real.
+
+Sirve para organizar ideas antes de programar.
+
+Ejemplo:
+Inicio
+Leer número
+Sumar 5
+Mostrar resultado
+Fin
+
+7. ¿Qué es un diagrama de flujo?
+
+Es un dibujo que muestra los pasos de un proceso usando símbolos.
+
+Símbolos principales:
+
+Óvalo: inicio y fin
+Rectángulo: proceso
+Rombo: decisión
+Flechas: indican el orden
+Actividad práctica (algoritmo)
+
+Situación: hacer una compra en una tienda
+
+Ir a la tienda
+Escoger los productos
+Llevarlos a la caja
+Decirle al cajero los productos
+El cajero calcula el total
+Pagar el dinero
+Recibir el cambio (si aplica)
+Salir de la tienda

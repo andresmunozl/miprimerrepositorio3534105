@@ -1,0 +1,3 @@
+La programación es dar instrucciones a una computadora para crear aplicaciones y sistemas
+Para hacerlo se usan algoritmos (pasos ordenados), variables (datos que pueden cambiar), tipos de datos y operadores. 
+También se emplean herramientas como el pseudocódigo y los diagramas de flujo para organizar ideas. Todo funciona siguiendo pasos claros.
