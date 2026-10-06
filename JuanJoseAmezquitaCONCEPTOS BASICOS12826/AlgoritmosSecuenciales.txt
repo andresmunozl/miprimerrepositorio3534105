@@ -1,0 +1,99 @@
+# 1. Calcular el IVA e importe de Total
+
+precio = float(input("Ingrese el precio del producto: "))
+
+iva = precio * 0.21
+total = precio + iva
+
+print("El IVA es: ", iva)
+print("El total es: ", total)
+
+# 2. Conversor de Temperatura(Celsius a Fahrenheit)
+
+celsius = float(input("Ingrese la temperatura en Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+
+print("La temperatura en Fahrenheit es: ", fahrenheit)
+
+# 3. Area y Perimetro de un Rectangulo
+
+base = float(input("Ingrese la base del rectángulo: "))
+altura = float(input("Ingrese la altura del rectángulo: "))
+
+area = base * altura
+perimetro = 2 * (base + altura)
+
+print("El área del rectángulo es: ", area)
+print("El perímetro del rectángulo es: ", perimetro)
+
+# 4. Promedio simple de Notaas
+
+nota1 = float(input("Ingrese la primera nota: "))
+nota2 = float(input("Ingrese la segunda nota: "))
+nota3 = float(input("Ingrese la tercera nota: "))
+
+promedio = (nota1 + nota2 + nota3) / 3
+
+print("El promedio de las notas es: ", promedio)
+
+# 5. Descompoicion de Segundos a Tiempo Formateado
+
+segundos = int(input("Ingrese la cantidad de segundos: "))
+
+horas = segundos // 3600
+resto = segundos % 3600
+
+minutos = resto // 60
+segundos = resto % 60
+
+print("Horas: ", horas)
+print("Minutos: ", minutos)
+print("Segundos: ", segundos)
+
+# 6.Intercambio de Variables sin variables Auxiliares
+
+a = int(input("Ingrese el valor de a: "))
+b = int(input("Ingrese el valor de b: "))
+
+a = a + b
+b = a - b
+a = a - b
+
+print("El valor de a es: ", a)
+print("El valor de b es: ", b)
+
+# 7.Suma de los Digitos d un Numero de 3 Cifras
+
+numero = int(input("Ingrese un número de 3 cifras: "))
+
+centenas = numero // 100
+decenas = (numero % 100) // 10
+unidades = numero % 10
+
+suma = centenas + decenas + unidades
+
+print("Centenas: ", centenas)
+print("Decenas: ", decenas)
+print("Unidades: ", unidades)
+print("Suma de los dígitos: ", suma)
+
+# 8.Calculo de Distancia Euclidiana entre un plano cartecioano
+
+x1 = float(input("Ingrese la coordenada x1: "))
+y1 = float(input("Ingrese la coordenada y1: "))
+
+x2 = float(input("Ingrese la coordenada x2: "))
+y2 = float(input("Ingrese la coordenada y2: "))
+
+distancia = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
+
+print("La distancia euclidiana entre los puntos es: ", distancia)
+
+# 9. Redondeo hacia Arriba (Ceil) usando División Entera
+
+n = int(input("Ingrese la cantidad de elementos: "))
+k = int(input("Ingrese la capacidad de cada caja: "))
+
+cajas = (n + k - 1) // k
+
+print("cajas necesarias: ", cajas)
