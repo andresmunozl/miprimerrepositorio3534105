@@ -1,0 +1,7 @@
+La programación es el proceso de crear instrucciones para que una computadora realice tareas específicas, como desarrollar aplicaciones, programas y videojuegos. Antes de programar, se utiliza un algoritmo, que es un conjunto de pasos ordenados y precisos para resolver un problema.
+
+Las variables son espacios en la memoria donde se almacenan datos que pueden cambiar durante la ejecución de un programa. Estos datos pueden ser de diferentes tipos, como texto (String), enteros (Integer), decimales (Float o Double) y booleanos (True o False).
+
+Los operadores matemáticos permiten realizar cálculos básicos, como suma (+), resta (-), multiplicación (*), división (/) y módulo (%), que obtiene el residuo de una división.
+
+Antes de escribir un programa se recomienda elaborar un pseudocódigo, ya que permite organizar la lógica, detectar errores y planificar la solución de un problema de forma sencilla. Además, los diagramas de flujo representan gráficamente un algoritmo mediante símbolos como el óvalo (inicio/fin), el rectángulo (proceso), el paralelogramo (entrada/salida), el rombo (decisión) y las flechas (dirección del proceso), facilitando la comprensión y el diseño del programa.
