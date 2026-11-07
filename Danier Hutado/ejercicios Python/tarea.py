@@ -13,12 +13,12 @@ while cont_estudiantes <= cant_estudiantes:
          cont_notas += 1
     promedio = acom_notas / cant_notas
     aprobo = False
-    if aprobo >= 3.5:
-         aprobo = True
+    if promedio >= 3.5:
+        aprobo = True
     else:
-         aprobo = False
+        aprobo = False
     if aprobo:
          print("el estudian aprobo")
     else:
          print("el estudiante no aprobo")
-cont_estudiantes += 1                   
+cont_estudiantes += 1                
