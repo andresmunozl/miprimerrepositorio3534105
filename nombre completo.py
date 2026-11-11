@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre completo: ")
+programa = input("Ingrese su programa de formación: ")
+ficha = input("Ingrese su número de ficha: ")
+print("Aprendiz:", nombre)
+print("Programa:", programa)
+print("Ficha:", ficha)

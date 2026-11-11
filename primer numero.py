@@ -1,0 +1,6 @@
+num1 = float(input("Ingrese el primer número: "))
+num2 = float(input("Ingrese el segundo número: "))
+print("¿Son iguales?", num1 == num2)
+print("¿Son diferentes?", num1 != num2)
+print("¿El primero es mayor?", num1 > num2)
+print("¿El primero es menor?", num1 < num2)
