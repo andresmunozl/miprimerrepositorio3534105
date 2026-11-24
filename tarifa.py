@@ -1,0 +1,5 @@
+tarifa_fija = float(input("Ingrese la tarifa fija: "))
+costo_unidad = float(input("Ingrese el costo por unidad: "))
+unidades = int(input("Ingrese la cantidad de unidades utilizadas: "))
+total_pagar = tarifa_fija + (costo_unidad * unidades)
+print("El valor total a pagar es:", total_pagar)

@@ -1,0 +1,7 @@
+usuario = input("Nombre del usuario: ")
+servicio = input("Servicio solicitado: ")
+costo_servicio = float(input("Costo del servicio: "))
+print("--- RESUMEN DE LA CITA ---")
+print("Cliente:", usuario)
+print("Servicio:", servicio)
+print("Total a pagar: $", costo_servicio)
