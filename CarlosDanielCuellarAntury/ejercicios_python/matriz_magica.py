@@ -40,6 +40,10 @@ for i in range(3):
 print("Diagonal principal:", diag_principal)
 print("Diagonal secundaria:", diag_secundaria)
 
+# matriz resultante visualizar lo digitado
+for index in range(3):
+    print(matriz[index])
+
 # ¿Cuadrado mágico? Todo debe sumar igual que la diagonal principal
 es_magico = True
 if diag_secundaria != diag_principal:
